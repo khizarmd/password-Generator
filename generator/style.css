@@ -259,6 +259,21 @@ font-size: 1.5rem;
     
  }
 
+ .resetBtn{
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2;
+    border-radius: 10px;
+    color: red;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: var(--dk-violet);
+    cursor: pointer;
+    border-bottom: 0.35rem solid var(--lt-violet2);
+ }
+
 
 /*  
  .slider{
